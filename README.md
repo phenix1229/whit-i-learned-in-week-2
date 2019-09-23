@@ -15,6 +15,7 @@ I learned how to use CSS to style my HTML and make it look better with less effo
 * Using selectors, properties, and values
 * Playing CSS diner
 * box model pun exercise
+* YAGNI (you ain't gonna need it)
 
 ---
 
@@ -24,3 +25,9 @@ I learned about the development tools available in Firefox and Chrome and how to
 
 ## Intro to Javascript
 
+I learned some basics of Javascript (ECMAscript) including:
+* The difference between strings and numbers
+* The importance of `''` (or `""`)
+* camelCase
+* `let` and `const`
+* `**` for exponents and `%` to get the remainder of an operation
